@@ -1,6 +1,6 @@
 # Projeto QR code
 
-Página QR code, apenas com html e css.
+Página QR code responsiva, para DESKTOP e MOBILE, apenas com html e css.
 
 ## Tecnologias
 
