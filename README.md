@@ -1,6 +1,6 @@
 # Projeto QR code
 
-Descrição breve do que o projeto faz.
+Página QR code, apenas com html e css.
 
 ## Tecnologias
 
